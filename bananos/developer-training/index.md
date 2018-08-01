@@ -10,14 +10,18 @@
 | 69     | not_idol#3950 | Completed Lesson Four  |[not-idol.github.io]    |
 | 04     | Lee#2040      | Completed Lesson Two   |[acidlee.github.io]     |
 | 05     | Parvu#7388    | Completed Lesson Three |[parvulitum.github.io]  |
-| 06     | Monachita#2427| Completed Lesson one |[Monachita.github.io]   |
+| 06     | Monachita#2427| Completed Lesson One   |[monachita.github.io]   |
 | 07     | Trigger Haven#5767| Completed Lesson  |   |
+| 08     | mitchellcairns#5200 | Completed Lesson One |[mitchellcairns.github.io]|
 
 [coranos.github.io]: https://coranos.github.io/
 [mayrapina007.github.io]: https://mayrapina007.github.io/
 [not-idol.github.io]: https://not-idol.github.io/
 [acidlee.github.io]: https://not-idol.github.io/
 [parvulitum.github.io]: https://Parvulitum.github.io/
+[monachita.github.io]: https://monachita.github.io/
+[mitchellcairns.github.io]: https://mitchellcairns.github.io/
+
 
 ## Lesson One, Github and Atom.
 
@@ -103,11 +107,7 @@ put the name as "index.html"
 
 ```
 packages->gihug->toggle git tab
-if you end up having to use git bash instead of atom, you should look at VI commands, as VI is the default editor for git commit:  
-http://rcsg-gsir.imsb-dsgi.nrc-cnrc.gc.ca/documents/basic/node168.html  
-
 ```
-
 
 ## Lesson Three, simple index.html.
 
